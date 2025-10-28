@@ -1,0 +1,3 @@
+NOTICE
+
+This project uses publicly available curriculum data from Holy Angel University (HAU), accessible at hau.edu.ph.
